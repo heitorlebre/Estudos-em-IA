@@ -1,2 +1,2 @@
-# Estudos-em-IA
+# mnist-classifier
 Estudando a porra toda
