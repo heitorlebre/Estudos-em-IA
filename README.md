@@ -1,4 +1,3 @@
-# mnist-classifier
 # MNIST Image Classifier
 
 Projeto introdutório de Deep Learning utilizando TensorFlow e Keras para classificação de dígitos manuscritos do dataset MNIST.
